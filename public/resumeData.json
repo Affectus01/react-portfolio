@@ -1,0 +1,211 @@
+{
+  "main": {
+    "name": "Ben Nolan",
+    "occupation": "Website & Application Developer",
+    "description": "",
+    "image": "profilepic.png",
+    "bio": "My name is Ben, I am a software developer that serves the Kansas City area. I design and develop websites, desktop, and mobile applications. My focus is to research a customers' needs and requirements. The research will help me design a mockup that is user friendly for the consumer. I utilize the findings from the research and design phases for the production of specific products including materials, systems, and methods. The research and designs will help me produce user friendly and successful products for the customer.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "benjiman.nolan1@gmail.com",
+    "phone": "(316) 706-0994",
+    "address": {
+      "street": "123 St.",
+      "city": "Kansas City",
+      "state": "KS",
+      "zip": "66048"
+    },
+    "website": "http://www.bennolan.me",
+    "resumedownload": "http://www.bennolan.me",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/affectus01",
+        "className": "fab fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/benjiman-nolan",
+        "className": "fab fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Affectus01",
+        "className": "fab fa-github"
+      },
+      {
+        "name": "contact",
+        "url": "#contact",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Western Govorners University",
+        "degree": "Bachelors in Software Development",
+        "graduated": "January 2019",
+        "description": ""
+      },
+      {
+        "school": "Kansas City Kansas Community College",
+        "degree": "Associates in Computer Science",
+        "graduated": "May 2014",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Dealer.com",
+        "title": "Implementation Project Lead",
+        "years": "September 2018 - Present",
+        "description": "Building and managing dealership websites and projects."
+      },
+      {
+        "company": "Dealer.com",
+        "title": "Digital Strategist",
+        "years": "September 2016 - September 2018",
+        "description": "Managing dealership website accounts and advertising."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "C#",
+        "level": "50%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "jQuery",
+        "level": "65%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "50%"
+      },
+      {
+        "name": "Sass/SCSS",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw",
+        "technology": [
+          {
+            "name": "ReactJs",
+            "className": "fab fa-react"
+          },
+          {
+            "name": "Node.js",
+            "className": "fab fa-node-js"
+          },
+          {
+            "name": "JavaScript",
+            "className": "fab fa-js-square"
+          }
+        ]
+      },
+      {
+        "title": "TikTok Clone",
+        "category": "TikTok Clone built with MERN",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE",
+        "technology": [
+          {
+            "name": "ReactJs",
+            "className": "fab fa-react"
+          },
+          {
+            "name": "Node.js",
+            "className": "fab fa-node-js"
+          },
+          {
+            "name": "JavaScript",
+            "className": "fab fa-js-square"
+          }
+        ]
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo",
+        "technology": [
+          {
+            "name": "ReactJs",
+            "className": "fab fa-react"
+          }
+        ]
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA",
+        "technology": [
+          {
+            "name": "ReactJs",
+            "className": "fab fa-react"
+          }
+        ]
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s",
+        "technology": [
+          {
+            "name": "ReactJs",
+            "className": "fab fa-react"
+          }
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "user": "Lorem Ipsum"
+      },
+      {
+        "text": "Vitae tortor condimentum lacinia quis vel eros donec ac odio. Auctor eu augue ut lectus arcu bibendum at varius. Pellentesque nec nam aliquam sem et. Elit duis tristique sollicitudin nibh sit amet commodo nulla. Egestas maecenas pharetra convallis posuere morbi leo. Eu feugiat pretium nibh ipsum consequat. Pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus.",
+        "user": "Lorem Ipsum Jr."
+      }
+    ]
+  }
+}
