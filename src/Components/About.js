@@ -33,7 +33,7 @@ class About extends Component {
                   <p className="address">
 						   <span>{name}</span><br />
                      <span>{email}</span><br />
-                     <span><a href={website} target="_blank">www.bennolan.me</a></span>
+                     <span><a href={website} target="_blank" rel="noreferrer noopener">www.bennolan.me</a></span>
 					   </p>
                </div>
                <div className="columns download">
