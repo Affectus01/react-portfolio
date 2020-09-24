@@ -35,7 +35,7 @@
       {
         "name": "contact",
         "url": "#contact",
-        "className": "fa fa-envelope"
+        "className": "fa fa-envelope smoothscroll"
       }
     ]
   },
@@ -119,74 +119,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw",
-        "technology": [
-          {
-            "name": "ReactJs",
-            "className": "fab fa-react"
-          },
-          {
-            "name": "Node.js",
-            "className": "fab fa-node-js"
-          },
-          {
-            "name": "JavaScript",
-            "className": "fab fa-js-square"
-          }
-        ]
-      },
-      {
-        "title": "TikTok Clone",
-        "category": "TikTok Clone built with MERN",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE",
-        "technology": [
-          {
-            "name": "ReactJs",
-            "className": "fab fa-react"
-          },
-          {
-            "name": "Node.js",
-            "className": "fab fa-node-js"
-          },
-          {
-            "name": "JavaScript",
-            "className": "fab fa-js-square"
-          }
-        ]
-      },
-      {
-        "title": "Facebook Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo",
-        "technology": [
-          {
-            "name": "ReactJs",
-            "className": "fab fa-react"
-          }
-        ]
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Airbnb Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA",
-        "technology": [
-          {
-            "name": "ReactJs",
-            "className": "fab fa-react"
-          }
-        ]
-      },
-      {
         "title": "Netflix Clone",
         "category": "Netflix Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s",
+        "image": "netflix-clone.png",
+        "url": "https://nolan-netflix-clone.web.app/",
         "technology": [
           {
             "name": "ReactJs",

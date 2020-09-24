@@ -21,6 +21,12 @@ class Header extends Component {
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
+         <a id="hamburger-menu" class="p-1 d-inline-block mt-2" href="#nav-wrap" onclick="hamburgerMenu()">
+					<span class="menu-item bg-primary d-block"></span>
+					<span class="menu-item bg-primary d-block"></span>
+					<span class="menu-item m-0 bg-primary d-block"></span>
+			</a>
+
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#portfolio">Projects</a></li>
